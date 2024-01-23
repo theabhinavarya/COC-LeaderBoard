@@ -1,2 +1,2 @@
-# wizard
-CoC
+# COC-LeaderBoard
+
