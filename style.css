@@ -7,8 +7,10 @@
     text-decoration: none;
 }
 body{
-    background: linear-gradient(245.59deg, #39617c 0%, #0293d6 28.53%, #033064 75.52%);
+    background-image: url(https://i.ibb.co/nrN6gdt/CC-carousel.jpg);
     background-repeat:  no-repeat;
+    background-position: fixed;
+    background-size: cover;
 }
 header{
     position: fixed;
@@ -70,7 +72,7 @@ section{
   margin-bottom: 40px;
 }
 .hero-text h1{
-font-family: 'Permanent Marker', cursive;
+font-family:'Courier New', Courier, monospace;
   font-size: 90px;
   line-height: 1;
   color: white;
@@ -91,7 +93,7 @@ font-family: 'Permanent Marker', cursive;
 .hero-text a{
   display: inline-block;
   color: white;
-  background: #033064;
+  background: #3d3220;
   border: 1px solid transparent;
   padding: 12px;
   line-height: 1.4;
@@ -107,10 +109,11 @@ font-family: 'Permanent Marker', cursive;
   transform: translate(8px);
 }
 .icons{
+  background-image: url(https://i.ibb.co/MGQDdnb/149-1495320-black-fade-png-background-abu-abu-hitam-transparent.png);
+  border-radius: 0 15px 15px 0;
   position: absolute;
   top: 50%;
-  padding: 0 9%;
-  transform: translateY(-50%);
+  transform: translateY(-40%);
 }
 .icons i{
   display: block;
